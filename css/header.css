@@ -1,5 +1,16 @@
 #header{
-    height: 35%;
+    height: 30%;
     width: 100%;
     background-color: lightblue;
-}           
+    background-image: url(../img/fundoheader.jpg);
+}    
+#titulo{
+font-size: 4em;
+font-family: 'Anton';
+margin-left: 3em;
+}
+#menusuperior{
+height: 5%;
+width: 100%;
+
+}
